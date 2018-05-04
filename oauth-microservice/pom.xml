@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>pluralsight-springcloud-m4-secureauthserver</name>
+	<name>oauth-integration test poc</name>
 	<description>testing out spring cloud security</description>
 
 	<parent>

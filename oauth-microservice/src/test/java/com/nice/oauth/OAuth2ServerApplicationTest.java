@@ -1,4 +1,4 @@
-package pluralsight.demo;
+package com.nice.oauth;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
